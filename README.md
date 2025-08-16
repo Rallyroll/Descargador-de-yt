@@ -4,7 +4,8 @@ YT Downloader is a simple and user-friendly tool to download audio (MP3) — and
 It is designed for everyday users who want an easy way to save their favorite content offline.
 
 ## 🚀 Features
-- Download YouTube audio in **MP3 format** (video support coming soon 🎥).
+- Download YouTube audio in **MP3 format**.
+- Download YouTube video in **MP4 format**.
 - Automatic conversion using **FFmpeg**.
 - Saves files into a dedicated folder for better organization.
 - Cross-platform support (Windows, macOS, Linux).
@@ -70,6 +71,12 @@ We welcome contributions from everyone! If you want to help improve this project
 6. Open a pull request from your branch to our main branch.
 
     We'll review your contribution as soon as we can! 🚀
+
+### 💡 Ideas for new features
+- More formats availabe, such as m4p, webm...
+- Make a GUI for the programs, using Tkinter or Flask with HTML and CSS
+- Other ideas are welcomed 🤗
+
 ## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
