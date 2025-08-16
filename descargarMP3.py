@@ -9,7 +9,7 @@ load_dotenv()
 url = input("Introduce la url del audio, canción o playlist que deseas descargar: \n")
 
 # Carpeta de descarga
-output_dir = "downloads"
+output_dir = "downloadsMP3"
 os.makedirs(output_dir, exist_ok=True)
 
 # Configuración de yt-dlp para descargar solo audio en formato webm
